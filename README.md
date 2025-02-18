@@ -13,7 +13,7 @@
 - [📊 Projects](#-projects)
   - [📡 Modulation vs SNR](#-modulation-vs-snr)
   - [⏳ Latency vs Time](#-latency-vs-time)
-  - [🤖 Machine Learning Predictions](#-machine-learning-predictions)
+  - [🤖 Machine Learning Predictions](#-machine-learning-predictions) (To be uploaded soon)
 - [⚙️ Installation & Requirements](#️-installation--requirements)
 - [▶️ Usage](#-usage)
 - [🤝 Contributing](#-contributing)
