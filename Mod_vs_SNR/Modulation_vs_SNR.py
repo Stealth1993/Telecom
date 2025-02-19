@@ -12,11 +12,11 @@ def adaptive_mod(snr):
     else:
         return '64QAM'
 
-# Generate SNR values
+# generate SNR values
 snr_values = np.linspace(0, 20, 10)
 mod_values = [adaptive_mod(snr) for snr in snr_values]
 
-# Create a color map that changes from red to green
+# dynamic color map based on values
 colors = plt.cm.RdYlGn(np.linspace(0, 1, len(snr_values)))
 
 plt.figure(figsize=(10, 6))
