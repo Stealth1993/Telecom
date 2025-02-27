@@ -15,3 +15,5 @@ python adaptive_modulation.py
 Code Overview
 adaptive_mod(snr): Function to determine the modulation scheme based on SNR.
 Color Gradient: Uses plt.cm.RdYlGn to create a color gradient for the plot.
+
+This can be integrated with the SON algorithm of the active networks.
