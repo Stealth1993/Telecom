@@ -133,7 +133,7 @@ python Latency_vs_Time/latency_vs_time.py
 ## 🤝 Contributing
 
 🚀 Contributions are welcome! If you have new projects, improvements, or bug fixes, feel free to open an issue or submit a pull request.
-
+You can Fork or Clone the repos.
 Make sure each project includes clear documentation and usage instructions.
 
 ---
