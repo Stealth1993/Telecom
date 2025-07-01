@@ -13,7 +13,7 @@
 - [📊 Projects](#-projects)
   - [📡 Modulation vs SNR](#-modulation-vs-snr)
   - [⏳ Latency vs Time](#-latency-vs-time)
-  - [🤖 Machine Learning Predictions](#-machine-learning-predictions)
+  - [🤖 Machine Learning Predictions](#-machine-learning-predictions) (To be uploaded soon)
 - [⚙️ Installation & Requirements](#️-installation--requirements)
 - [▶️ Usage](#-usage)
 - [🤝 Contributing](#-contributing)
@@ -133,7 +133,7 @@ python Latency_vs_Time/latency_vs_time.py
 ## 🤝 Contributing
 
 🚀 Contributions are welcome! If you have new projects, improvements, or bug fixes, feel free to open an issue or submit a pull request.
-
+You can Fork or Clone the repos.
 Make sure each project includes clear documentation and usage instructions.
 
 ---
