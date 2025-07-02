@@ -33,3 +33,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# This code generates synthetic 5G NR KPI data, calculates average KPIs, and plots them.
+# It includes throughput, latency, and jitter as key performance indicators.
