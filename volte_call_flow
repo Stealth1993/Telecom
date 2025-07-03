@@ -1,0 +1,14 @@
+digraph VoLTE_Call_Flow {
+	rankdir=LR
+	UE [label="User Equipment"]
+	eNB [label=eNodeB]
+	MME [label="Mobility Management Entity"]
+	SGW [label="Serving Gateway"]
+	PGW [label="PDN Gateway"]
+	IMS [label="IP Multimedia Subsystem"]
+	UE -> eNB [label="Attach Request"]
+	eNB -> MME [label="Attach Request"]
+	MME -> SGW [label="Create Session"]
+	SGW -> PGW [label="Create Session"]
+	PGW -> IMS [label="SIP Register"]
+}
