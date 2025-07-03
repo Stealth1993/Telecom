@@ -8,7 +8,7 @@ from scipy.spatial import distance
 NUM_ENODEBS = 10 # Number of eNodeBs
 NUM_UES = 100 # Number of User Equipments
 AREA_SIZE = 1000 # Size of the area (1000m x 1000m)
-TX_POWER = 46 # Transmission power in dBm
+TX_POWER = 52 # Transmission power in dBm
 NOISE_POWER = -174 # Noise power in dBm/Hz
 BANDWIDTH = 20e6 # Bandwidth in Hz
 
